@@ -1,0 +1,53 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Tue Dec 12 13:50:08 2017
+[*]
+[dumpfile] "/home/bellorini/Unioeste/2017/SD/NEANDER 2017/02 - Módulo MEM/VHDL/NEANDER_RAM_VHDL/tb_as_ram.ghw"
+[dumpfile_mtime] "Tue Dec 12 13:45:47 2017"
+[dumpfile_size] 20771
+[savefile] "/home/bellorini/Unioeste/2017/SD/NEANDER 2017/02 - Módulo MEM/VHDL/NEANDER_RAM_VHDL/tb_as_ram_escrita.gtkw"
+[timestart] 2583860000
+[size] 1366 717
+[pos] -1 -1
+*-23.886234 2606490000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_as_ram.
+[treeopen] top.tb_as_ram.u_ram.
+[treeopen] top.tb_as_ram.u_ram.ram.
+[sst_width] 196
+[signals_width] 206
+[sst_expanded] 1
+[sst_vpaned_height] 190
+@24
+#{top.tb_as_ram.s_addr[7:0]} top.tb_as_ram.s_addr[7] top.tb_as_ram.s_addr[6] top.tb_as_ram.s_addr[5] top.tb_as_ram.s_addr[4] top.tb_as_ram.s_addr[3] top.tb_as_ram.s_addr[2] top.tb_as_ram.s_addr[1] top.tb_as_ram.s_addr[0]
+@28
+top.tb_as_ram.u_ram.rnotw
+top.tb_as_ram.u_ram.notcs
+@c00023
+#{top.tb_as_ram.s_data[7:0]} top.tb_as_ram.s_data[7] top.tb_as_ram.s_data[6] top.tb_as_ram.s_data[5] top.tb_as_ram.s_data[4] top.tb_as_ram.s_data[3] top.tb_as_ram.s_data[2] top.tb_as_ram.s_data[1] top.tb_as_ram.s_data[0]
+@28
+top.tb_as_ram.s_data[7]
+top.tb_as_ram.s_data[6]
+top.tb_as_ram.s_data[5]
+top.tb_as_ram.s_data[4]
+top.tb_as_ram.s_data[3]
+top.tb_as_ram.s_data[2]
+top.tb_as_ram.s_data[1]
+top.tb_as_ram.s_data[0]
+@1401201
+-group_end
+@c00022
+#{top.tb_as_ram.u_ram.ram[254][7:0]} top.tb_as_ram.u_ram.ram[254][7] top.tb_as_ram.u_ram.ram[254][6] top.tb_as_ram.u_ram.ram[254][5] top.tb_as_ram.u_ram.ram[254][4] top.tb_as_ram.u_ram.ram[254][3] top.tb_as_ram.u_ram.ram[254][2] top.tb_as_ram.u_ram.ram[254][1] top.tb_as_ram.u_ram.ram[254][0]
+@28
+top.tb_as_ram.u_ram.ram[254][7]
+top.tb_as_ram.u_ram.ram[254][6]
+top.tb_as_ram.u_ram.ram[254][5]
+top.tb_as_ram.u_ram.ram[254][4]
+top.tb_as_ram.u_ram.ram[254][3]
+top.tb_as_ram.u_ram.ram[254][2]
+top.tb_as_ram.u_ram.ram[254][1]
+top.tb_as_ram.u_ram.ram[254][0]
+@1401200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0

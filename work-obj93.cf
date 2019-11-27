@@ -1,0 +1,88 @@
+v 4
+file . "FFJK.vhdl" "464666ca1196c2d2680bfb8bbc24c9ad103fa6d1" "20191127193449.672":
+  entity ffjkms at 1( 0) + 0 on 1581;
+  architecture comportamento of ffjkms at 15( 298) + 0 on 1582;
+file . "ULA.vhdl" "cb311b963157249d8513b6bfab7f499325f7a737" "20191127193449.653":
+  entity ula at 1( 0) + 0 on 1579;
+  architecture comp of ula at 18( 420) + 0 on 1580;
+file . "RDM.vhdl" "16851f263ac3b74649f01ad3e839442f7465d3cb" "20191127193449.637":
+  entity rdm at 1( 0) + 0 on 1577;
+  architecture comp of rdm at 14( 276) + 0 on 1578;
+file . "UC.vhdl" "fadfffb703cc599e77f3eaa68494ab647c747d77" "20191127193449.619":
+  entity uc at 1( 0) + 0 on 1575;
+  architecture comp of uc at 34( 837) + 0 on 1576;
+file . "MUX2x4.vhdl" "44dbaa5f424f7feebcaba7ac6b9a275fdc02cb8a" "20191127193449.617":
+  entity mux2x4 at 1( 0) + 0 on 1573;
+  architecture comp of mux2x4 at 13( 243) + 0 on 1574;
+file . "DECODER.vhdl" "9990137eb2d9d8e0ecc349b93eb49ec8bf91bbe6" "20191127193449.602":
+  entity decoder at 1( 0) + 0 on 1571;
+  architecture comp of decoder at 21( 430) + 0 on 1572;
+file . "full_Add_8b.vhdl" "c010693536035191d35e78f306c846cea001bf30" "20191127193449.599":
+  entity full_add_8bits at 1( 0) + 0 on 1569;
+  architecture comp of full_add_8bits at 13( 290) + 0 on 1570;
+file . "REG4.vhdl" "78e276c5dc241734577df60d1773143471eb8d6b" "20191127193449.594":
+  entity reg4 at 1( 0) + 0 on 1567;
+  architecture comp of reg4 at 14( 257) + 0 on 1568;
+file . "NOP.vhdl" "85cf005ef47e68e4e506f461493fc621c2063373" "20191127193449.580":
+  entity nop at 1( 0) + 0 on 1565;
+  architecture comp of nop at 11( 178) + 0 on 1566;
+file . "CONT07.vhdl" "32734e4c979078c52c750787c67b4ab76503b761" "20191127193449.577":
+  entity cont07 at 1( 0) + 0 on 1563;
+  architecture comp of cont07 at 15( 242) + 0 on 1564;
+file . "OR8.vhdl" "5bd5d70a5dfc2b7fe61620545b5aa9fbee3de3b4" "20191127193449.561":
+  entity or8 at 1( 0) + 0 on 1561;
+  architecture comp of or8 at 12( 224) + 0 on 1562;
+file . "NEANDER.vhdl" "c1ab76cdcc3588792d77fa24fadfae3109302e92" "20191127193449.558":
+  entity neander at 1( 0) + 0 on 1559;
+  architecture comp of neander at 12( 167) + 0 on 1560;
+file . "REM.vhdl" "765e16c7594f6a59b1c40802c663b70f84268cfc" "20191127193449.535":
+  entity r_e_m at 1( 0) + 0 on 1557;
+  architecture comp of r_e_m at 14( 278) + 0 on 1558;
+file . "full_Add_1b.vhdl" "abbf516506d353b5565a1283ca30523ebeaa0c99" "20191127193449.518":
+  entity full_add_1b at 1( 0) + 0 on 1551;
+  architecture operation of full_add_1b at 14( 253) + 0 on 1552;
+file . "NOT8.vhdl" "0186f97c59c29081d2c3cbda2094ab9d007eda7b" "20191127193449.508":
+  entity not8 at 1( 0) + 0 on 1549;
+  architecture comp of not8 at 11( 178) + 0 on 1550;
+file . "AND8.vhdl" "80db004762d54d11d23ea520dd2119aff8c3f137" "20191127193449.492":
+  entity and8 at 1( 0) + 0 on 1547;
+  architecture comp of and8 at 12( 225) + 0 on 1548;
+file . "PC.vhdl" "3819201b8d18ef41d1b8cc44da6016b123cb2604" "20191127193449.482":
+  entity pc at 1( 0) + 0 on 1545;
+  architecture comp of pc at 15( 318) + 0 on 1546;
+file . "REG8.vhdl" "028ddf077f4c9212fc91bafa957b0a484215e2b4" "20191127193449.444":
+  entity reg8 at 1( 0) + 0 on 1541;
+  architecture comp of reg8 at 14( 257) + 0 on 1542;
+file . "FFJKTD.vhdl" "5df3eb1e69bf4f9ac712b178bc3825acce430869" "20191127193449.434":
+  entity ffjktd at 1( 0) + 0 on 1539;
+  architecture comp of ffjktd at 13( 226) + 0 on 1540;
+file . "MUX2x1.vhdl" "545c26beb6f6b00b14e93414b981685c39860ffc" "20191127193449.418":
+  entity mux2x1 at 1( 0) + 0 on 1537;
+  architecture comp of mux2x1 at 13( 186) + 0 on 1538;
+file . "BLOCK.vhdl" "19cf2dc4ec74f0c5df0b19c72cd37f3c97aa1639" "20191127193449.372":
+  entity blocker at 1( 0) + 0 on 1533;
+  architecture comp of blocker at 12( 216) + 0 on 1534;
+file . "MUX2X8.vhdl" "306d0417bdf22886ba3012a36c796a77f26cce7e" "20191127193449.364":
+  entity mux2x8 at 1( 0) + 0 on 1531;
+  architecture comp of mux2x8 at 13( 243) + 0 on 1532;
+file . "REGPC.vhdl" "3cd424ee72fb18b61f1902cbf91ee9cf697e0679" "20191127193449.347":
+  entity regpc at 1( 0) + 0 on 1529;
+  architecture comp of regpc at 14( 278) + 0 on 1530;
+file . "AC.vhdl" "c6f7a48399256696ce1b3a0f0387bb3184f84ac2" "20191127193449.329":
+  entity ac at 1( 0) + 0 on 1527;
+  architecture comp of ac at 14( 265) + 0 on 1528;
+file . "RI.vhdl" "08b84ee69e4cac0c14dbf1c1107f5f72eb89afac" "20191127193449.313":
+  entity ri at 1( 0) + 0 on 1525;
+  architecture comp of ri at 14( 279) + 0 on 1526;
+file . "tb_as_ram.vhdl" "e4a76ec98001d0d0aa7c8cac0814792fcc676baa" "20191127193449.401":
+  entity tb_as_ram at 1( 0) + 0 on 1535;
+  architecture tb_behavior of tb_as_ram at 9( 126) + 0 on 1536;
+file . "as_ram.vhdl" "92619fb52993018ab0f945cdd9e6f9968be2279b" "20191127193449.469":
+  entity as_ram at 2( 42) + 0 on 1543;
+  architecture behavior of as_ram at 16( 325) + 0 on 1544;
+file . "tb_neander.vhdl" "617b25ab59d1db6bc12f9f95f23237c01cb3d102" "20191127193449.521":
+  entity tb_neander at 1( 0) + 0 on 1553;
+  architecture comp of tb_neander at 7( 78) + 0 on 1554;
+file . "LDA.vhdl" "b8a9a6b986abb54ec3fc40424bb32b100d3a72f2" "20191127193449.525":
+  entity lda at 1( 0) + 0 on 1555;
+  architecture comp of lda at 11( 178) + 0 on 1556;

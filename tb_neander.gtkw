@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Wed Nov 27 18:39:21 2019
+[*]
+[dumpfile] "/home/marocos/CienciaDaComputacao/SD/NEANDER/wv_result.ghw"
+[dumpfile_mtime] "Wed Nov 27 18:38:22 2019"
+[dumpfile_size] 29535
+[savefile] "/home/marocos/CienciaDaComputacao/SD/NEANDER/tb_neander.gtkw"
+[timestart] 0
+[size] 1366 700
+[pos] -1 -1
+*-24.694880 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_neander.
+[treeopen] top.tb_neander.d_neander.
+[sst_width] 202
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 182
+@28
+top.tb_neander.sclk
+top.tb_neander.sloadpc
+top.tb_neander.sreset
+@200
+-Controls
+@28
+top.tb_neander.d_neander.ac_flags
+#{top.tb_neander.d_neander.sel_op_ula[2:0]} top.tb_neander.d_neander.sel_op_ula[2] top.tb_neander.d_neander.sel_op_ula[1] top.tb_neander.d_neander.sel_op_ula[0]
+top.tb_neander.d_neander.sel_pc
+top.tb_neander.d_neander.c_pc
+top.tb_neander.d_neander.sel_mux
+top.tb_neander.d_neander.c_rem
+top.tb_neander.d_neander.c_rdm
+top.tb_neander.d_neander.c_block
+top.tb_neander.d_neander.r_not_w
+top.tb_neander.d_neander.c_ri
+@200
+-INPUT
+[pattern_trace] 1
+[pattern_trace] 0
